@@ -30,6 +30,10 @@ cmake ..
 make
 ```
 
+### Releases
+
+[Releases](https://github.com/claitz/SQLSplit/releases/) are available for Windows, macOS, and Linux but we encourage you to compile the code yourself.
+
 ## Usage
 
 ### As a CLI tool
